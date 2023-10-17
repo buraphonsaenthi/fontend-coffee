@@ -101,7 +101,7 @@ export default function Album() {
                     </Typography>
                   </CardContent>
                   <CardActions>
-                    <Button size="small">View</Button>
+                    <Button size="small">View Promotion</Button>
                   </CardActions>
                 </Card>
               </Grid>

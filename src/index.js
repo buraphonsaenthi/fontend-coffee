@@ -11,7 +11,6 @@ import Promotion from './components/pages/Promotion'
 import ForgotPassword from './components/pages/ForgotPassword'
 import Enter from './components/pages/entrepreneur'
 
-import AuthCheck from './components/AuthCheck'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
