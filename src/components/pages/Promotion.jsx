@@ -165,7 +165,7 @@ function Album() {
                           size="small"
                           onClick={() => handleViewClick(promotion.img)}
                         >
-                          View
+                          View Promotion
                         </Button>
                       </CardActions>
                     </Card>
